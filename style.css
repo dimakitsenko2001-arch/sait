@@ -1,0 +1,20 @@
+.poisk-1 {
+    width: 95%;
+    height: 100px;
+    margin: 0 auto;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.kub-1 {
+    width: 10%;
+    height: 50px;
+    border: 1px solid red;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+h1 {
+    color: red;
+}
